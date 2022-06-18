@@ -241,7 +241,8 @@ svg {
 }
 
 .right-section {
-    position: fixed;
+    position:fixed;
+  
 }
 
 .child-section .my-profile {
